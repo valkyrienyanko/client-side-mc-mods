@@ -57,6 +57,7 @@ Xearoes Minimap
 Xearoes World Map  
 
 ## Bug Fixes
+[Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)  
 [Anti Ghost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
 [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)  
 [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3)  
