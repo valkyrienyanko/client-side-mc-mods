@@ -53,8 +53,8 @@ Essential client side minecraft mods you should play with. All mods tested and w
 [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)  
 [Shutup Experimental Settings](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)  
 [Tip the Scales](https://www.curseforge.com/minecraft/mc-mods/tipthescales)  
-Xearoes Minimap  
-Xearoes World Map  
+[Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)  
+[Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)  
 
 ## Bug Fixes
 [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)  
